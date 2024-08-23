@@ -11,15 +11,12 @@
     align-items: center;
     padding: 24px 0;
 }
-
-.agricultura-texto {
-    text-align: center;
-}
-
-
 .cabeçalho-título {
     color: #C72A2C;
     font-size: 54px;
+}
+.agricultura-texto {
+    text-align: center;
 }
 
 .cabeçalho-lista {
