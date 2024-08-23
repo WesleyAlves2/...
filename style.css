@@ -7,9 +7,13 @@
 .cabeçalho {
     background-color: #300301;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     padding: 24px 0;
+}
+
+body {
+text-align: center;
 }
 
 .cabeçalho-título {
@@ -72,4 +76,5 @@
 footer{
 background-color: black;
  color: white;
+  padding: 24px;
 }
